@@ -33,7 +33,7 @@ client.on('message', function(message){
 
   if(message.content == '!bot info')
   {
-    return message.reply("`BOT NAME HERE`'s a **`discord.js`** open-source bot based on `Severino` by `github.com/gabr_guedes`."
+    return message.reply("`BOT NAME HERE`'s a **`discord.js`** open-source bot based on `Severino` by `github.com/gabrguedes`."
     )
   }
 });	
